@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>台灣高階經理人領導力課程市場地圖</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Taiwan Executive Leadership Course Market</p>
+        <h1>台灣高階經理人領導力課程市場地圖</h1>
+        <p class="scope" id="scopeText"></p>
+      </div>
+      <div class="meta-card" aria-label="資料摘要">
+        <div><strong id="courseCount">0</strong><span>課程/模組</span></div>
+        <div><strong id="categoryCount">0</strong><span>類別</span></div>
+        <div><strong id="sourceCount">0</strong><span>來源/主辦</span></div>
+      </div>
+    </header>
+
+    <main>
+      <section class="summary-band" aria-label="市場摘要">
+        <div class="summary-copy">
+          <h2>市場重點</h2>
+          <p id="insightText"></p>
+        </div>
+        <div class="signal-grid">
+          <div class="signal">
+            <span>原始觀察</span>
+            <strong id="rawCount">0</strong>
+          </div>
+          <div class="signal">
+            <span>詳情頁</span>
+            <strong id="detailCount">0</strong>
+          </div>
+          <div class="signal">
+            <span>資料日</span>
+            <strong id="generatedAt">-</strong>
+          </div>
+          <div class="signal">
+            <span>下次檢查</span>
+            <strong id="nextReview">-</strong>
+          </div>
+        </div>
+      </section>
+
+      <section class="recommendation-band" aria-label="遠見領導力學院建議開課">
+        <div class="section-title">
+          <div>
+            <h2>建議遠見領導力學院優先開課</h2>
+            <p id="recommendationSummary"></p>
+          </div>
+          <span id="recommendationUpdated">-</span>
+        </div>
+        <div id="recommendationGrid" class="recommendation-grid"></div>
+        <div class="emerging-category-box">
+          <div class="section-title">
+            <h2>新興類別候選</h2>
+            <span id="emergingCategoryCount">0 類</span>
+          </div>
+          <div id="emergingCategoryList" class="emerging-category-list"></div>
+        </div>
+      </section>
+
+      <section class="controls" aria-label="篩選條件">
+        <label>
+          <span>搜尋</span>
+          <input id="searchInput" type="search" placeholder="課程、老師、主辦、企業類型" />
+        </label>
+        <label>
+          <span>類別</span>
+          <select id="categorySelect"></select>
+        </label>
+        <label>
+          <span>主辦</span>
+          <select id="providerSelect"></select>
+        </label>
+        <label>
+          <span>資料信心</span>
+          <select id="qualitySelect">
+            <option value="">全部</option>
+            <option value="A">A 官方頁高信心</option>
+            <option value="B">B 官方頁但部分欄位待查</option>
+            <option value="C">C 活動平台摘要</option>
+          </select>
+        </label>
+        <label>
+          <span>排序</span>
+          <select id="sortSelect">
+            <option value="rank">研究排序</option>
+            <option value="category">類別</option>
+            <option value="provider">主辦</option>
+            <option value="quality">資料信心</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="market-layout">
+        <aside class="category-panel" aria-label="類別總覽">
+          <div class="section-title">
+            <h2>類別分布</h2>
+            <span id="visibleCount">0 筆</span>
+          </div>
+          <div id="categoryBars" class="category-bars"></div>
+        </aside>
+
+        <section class="course-section" aria-label="課程清單">
+          <div class="section-title">
+            <h2>課程卡片</h2>
+            <span id="resultLabel"></span>
+          </div>
+          <div id="courseGrid" class="course-grid"></div>
+        </section>
+      </section>
+    </main>
+
+    <div id="detailPanel" class="detail-panel" aria-hidden="true">
+      <div class="detail-backdrop" data-close="true"></div>
+      <article class="detail-sheet" role="dialog" aria-modal="true" aria-labelledby="detailTitle">
+        <button class="close-button" type="button" data-close="true" aria-label="關閉">×</button>
+        <div id="detailContent"></div>
+      </article>
+    </div>
+
+    <script src="./data.js"></script>
+    <script src="./market-updates.js"></script>
+    <script src="./audience-rules.js"></script>
+    <script src="./recommendations.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
