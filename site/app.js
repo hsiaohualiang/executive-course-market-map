@@ -15,6 +15,7 @@ const recommendationPayload = window.COURSE_RECOMMENDATIONS || {
 const courses = mergeCourses(payload.courses || [], liveUpdates.extraCourses || []);
 const meta = payload.meta || {};
 const updateMeta = liveUpdates.meta || {};
+const competitorProfiles = liveUpdates.competitorProfiles || [];
 const insightRules = liveUpdates.insightRules || [];
 const audienceRules = audiencePayload.audienceRules || [];
 const categoryRules = audiencePayload.categoryRules || {};
@@ -51,6 +52,8 @@ const els = {
   recommendationGrid: document.querySelector("#recommendationGrid"),
   emergingCategoryCount: document.querySelector("#emergingCategoryCount"),
   emergingCategoryList: document.querySelector("#emergingCategoryList"),
+  competitorProfileCount: document.querySelector("#competitorProfileCount"),
+  competitorProfileGrid: document.querySelector("#competitorProfileGrid"),
   categoryBars: document.querySelector("#categoryBars"),
   courseGrid: document.querySelector("#courseGrid"),
   visibleCount: document.querySelector("#visibleCount"),
@@ -208,6 +211,9 @@ function initMeta() {
     ? `更新 ${recommendationPayload.meta.last_updated}`
     : "-";
   els.emergingCategoryCount.textContent = `${emergingCategories.length} 類`;
+  if (els.competitorProfileCount) {
+    els.competitorProfileCount.textContent = `${competitorProfiles.length} 家`;
+  }
 }
 
 function fillSelect(select, values, firstLabel) {
@@ -401,6 +407,97 @@ function renderRecommendations() {
       `
     )
     .join("");
+}
+
+function competitorProfileTemplate(profile) {
+  const language = profile.recruitingLanguage || {};
+  return `
+    <article class="competitor-profile-card">
+      <div class="competitor-profile-head">
+        <div>
+          <span class="tag live-tag">${escapeHtml(profile.tier)}</span>
+          <span class="tag">${escapeHtml(profile.strategicRole)}</span>
+        </div>
+        <h3>${escapeHtml(profile.provider)}</h3>
+        <p>${escapeHtml(profile.headline)}</p>
+      </div>
+      <div class="profile-two-col">
+        <div>
+          <span>品牌定位</span>
+          <p>${escapeHtml(profile.brandPosition)}</p>
+        </div>
+        <div>
+          <span>價格帶/產品梯隊</span>
+          <p>${escapeHtml(profile.priceArchitecture)}</p>
+        </div>
+      </div>
+      <div class="profile-framework-grid">
+        ${profileMiniList("目標客群", profile.targetSegments)}
+        ${profileMiniList("產品梯隊", profile.productLadder)}
+        ${profileMiniList("證據與口碑", profile.evidenceSignals)}
+        ${profileMiniList("盲點/風險", profile.blindSpots)}
+      </div>
+      <div class="profile-language-grid">
+        ${profileLanguage("痛點", language.pain)}
+        ${profileLanguage("承諾", language.promise)}
+        ${profileLanguage("權威", language.authority)}
+        ${profileLanguage("稀缺", language.scarcity)}
+      </div>
+      <div class="profile-two-col">
+        <div>
+          <span>師資策略</span>
+          <p>${escapeHtml(profile.teacherStrategy)}</p>
+        </div>
+        <div>
+          <span>對領導影響力學院的啟示</span>
+          <p>${escapeHtml(profile.implicationForJoyce)}</p>
+        </div>
+      </div>
+      ${profileMiniList("建議回應", profile.recommendedResponse, "profile-response-list")}
+      <div class="profile-actions">
+        <button type="button" class="profile-filter-button" data-provider="${escapeHtml(profile.provider)}">看此機構旗下課程</button>
+        ${(profile.evidenceUrls || [])
+          .slice(0, 3)
+          .map((url) => `<a href="${escapeHtml(url)}" target="_blank" rel="noreferrer">來源</a>`)
+          .join("")}
+      </div>
+    </article>
+  `;
+}
+
+function profileMiniList(title, items, className = "") {
+  const rows = items || [];
+  if (!rows.length) return "";
+  return `
+    <div class="profile-mini-list ${className}">
+      <span>${escapeHtml(title)}</span>
+      <ul>
+        ${rows.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}
+      </ul>
+    </div>
+  `;
+}
+
+function profileLanguage(title, value) {
+  return `
+    <div>
+      <span>${escapeHtml(title)}</span>
+      <p>${escapeHtml(value || "待補")}</p>
+    </div>
+  `;
+}
+
+function renderCompetitorProfiles() {
+  if (!els.competitorProfileGrid) return;
+  els.competitorProfileGrid.innerHTML = competitorProfiles.map(competitorProfileTemplate).join("");
+  els.competitorProfileGrid.querySelectorAll("[data-provider]").forEach((button) => {
+    button.addEventListener("click", () => {
+      state.provider = button.dataset.provider || "";
+      els.providerSelect.value = state.provider;
+      document.querySelector(".controls")?.scrollIntoView({ behavior: "smooth", block: "start" });
+      render();
+    });
+  });
 }
 
 function field(label, value, wide = false) {
@@ -617,4 +714,5 @@ document.addEventListener("keydown", (event) => {
 initMeta();
 initControls();
 renderRecommendations();
+renderCompetitorProfiles();
 render();
