@@ -507,7 +507,7 @@ function recommendationTemplate(item) {
   return `
     <h2 id="detailTitle" class="detail-title">${escapeHtml(item.title)}</h2>
     <div class="detail-meta">
-      <span class="tag live-tag">遠見領導力學院建議開課</span>
+      <span class="tag live-tag">領導影響力學院建議開課</span>
       <span class="tag">${escapeHtml(item.category)}</span>
     </div>
     <div class="detail-grid">
