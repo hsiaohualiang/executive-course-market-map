@@ -1,8 +1,8 @@
 window.COURSE_RECOMMENDATIONS = {
   meta: {
-    last_updated: "2026-06-29",
+    last_updated: "2026-07-05",
     summary:
-      "根據本週官方頁與公開社群查核，優先建議布局 AI組織治理、CEO成長藍圖、台灣企業個案決策、失敗復盤、人才接班、董事會級溝通六條產品線；新增關注跨世代接班溝通與AI人才戰略。",
+      "根據本週官方頁與公開社群查核，優先建議布局 AI組織治理與市場情報、CEO成長藍圖、台灣企業個案決策、失敗復盤、人才接班、董事會級溝通六條產品線；新增關注AI資料治理與決策權、Agent服務產品化、雙軌轉型工具包。",
     method:
       "以官方課程頁、競品開課結構、重複開課/加開/額滿訊號、社群可觀測討論與高階主管需求推導。課程與老師為產品建議，不代表老師已確認合作。",
   },
@@ -57,32 +57,52 @@ window.COURSE_RECOMMENDATIONS = {
       why: "AI導入開始和人才配置、心理測評、接班梯隊與組織韌性包在一起，買方會從IT/營運擴大到CEO與CHRO。",
       evidence: "360d 2026接班策略文章把適性力、AI力、心理測評與接班人才發展整合成高層人才戰略。",
     },
+    {
+      name: "AI市場情報與決策雷達",
+      why: "AI高階主管課與經營決策課開始把市場情報、競爭者分析、紅軍對抗與第二曲線驗證做成課堂產出，代表AI正在進入CEO決策流程。",
+      evidence: "蘇欽豐AI組織效能實戰課主打AI市場情報系統與數位知識庫；陳百州經營決策實戰班把AI市場情報驗證納入三年成長策略。",
+    },
+    {
+      name: "AI資料治理與決策權",
+      why: "高階AI議題正在從工具效率進入資料主導權、權限、責任邊界與治理架構，買方會落在CEO/CIO/法遵與資料治理負責人。",
+      evidence: "HBR個案共學會第17期出現「AI時代的資料治理主導權之爭」個案；蘇欽豐AI組織效能課也要求主管把AI放進組織級工作流與數位知識庫。",
+    },
+    {
+      name: "Agent服務產品化",
+      why: "AI Agent不只用於內部提效，也開始觸及專業服務產品化、收費模式與交付邊界，適合專業服務業與知識型企業主。",
+      evidence: "HBR個案共學會第17期出現「代理式AI的轉型抉擇：是否加速推動專業服務產品化？」個案題目，顯示高階主管已在討論Agent與服務商業模式。",
+    },
+    {
+      name: "雙軌轉型工具包",
+      why: "商周雙軌轉型把轉型體檢表、雙軌路線圖、KPI、風險掃描等工具包具體化，代表高階轉型課正從概念課走向可帶回公司的成果物。",
+      evidence: "商周雙軌轉型組織領袖班官方頁列出企業轉型體檢表、戰略願景聲明、雙軌轉型路線圖、雙軌轉型成功指標與企業風險掃描。",
+    },
   ],
   courses: [
     {
       id: "rec-ai-governance-agent-workflow",
       rank: 1,
       category: "AI治理與Agent工作流",
-      title: "AI治理長實戰班：從工具試用到組織級Agent工作流",
-      teacher: "建議師資：陶韻智 + 蘇欽豐 + 企業CIO/法遵顧問",
+      title: "AI治理長實戰班：從工具試用到市場情報與Agent工作流",
+      teacher: "建議師資：蘇欽豐 + 陶韻智 + 企業CIO/法遵顧問",
       teacherReason:
         "陶韻智具平台與新創經營經驗，蘇欽豐具AI/ML導入與企業流程經驗，適合搭配CIO或法遵角色補足治理面。",
       targetAudience: "企業主、總經理、二代接班、CIO、營運主管、HR高階主管",
       marketSignal:
-        "AI課程已從提示詞轉向組織效能、AI Agent、自動化落地與Vibe Coding；陶韻智課標示好評加碼，蘇欽豐課公開早鳥與團報方案，市場需要主管能判斷治理、權限、資料與流程重設。",
+        "AI課程已從提示詞轉向組織效能、AI Agent、自動化落地、Vibe Coding與市場情報系統；蘇欽豐課公開9/12場次、課後限量5組線上門診，陶韻智課標示好評加碼，市場需要主管能判斷治理、權限、資料與流程重設。",
       productStructure: [
         "第1天：AI治理與風險邊界，盤點企業可導入場景。",
-        "第2天：Agent工作流設計，完成一條跨部門流程原型。",
-        "第3天：資料權限、人工審批點與績效指標。",
+        "第2天：AI市場情報與紅軍對抗，建立競爭雷達原型。",
+        "第3天：Agent工作流設計，完成一條跨部門流程原型與人工審批點。",
         "課後30天：線上門診，檢查學員回公司後的導入阻力。",
       ],
       rewrittenCopy: {
         headline: "讓AI不只會用，而是進入你的組織流程",
         subhead:
-          "三天完成一張AI治理地圖、一條Agent工作流，讓主管知道哪些事該自動化、哪些事必須保留人的判斷。",
+          "三天完成一張AI治理地圖、一個市場情報雷達、一條Agent工作流，讓主管知道哪些事該自動化、哪些事必須保留人的判斷。",
         bullets: [
           "從部門痛點出發，不從工具清單出發。",
-          "帶回可測試的Agent流程，而不是一包提示詞。",
+          "帶回可測試的市場情報雷達與Agent流程，而不是一包提示詞。",
           "同步處理資料、權限、法遵、績效與採用阻力。",
         ],
         cta: "適合正在推AI、但卡在落地與治理的經營團隊。",
@@ -93,24 +113,35 @@ window.COURSE_RECOMMENDATIONS = {
         "https://www.cw.com.tw/feature/topic/2026cwlcbusiness",
         "https://leaderimpact.cwgv.com.tw/course/1630",
         "https://leaderimpact.cwgv.com.tw/course/1595",
+        "https://www.youtube.com/watch?v=v2v83GNl2AY",
         "https://www.facebook.com/gv.monthly/videos/1563853208056682/",
         "https://www.instagram.com/reel/DYj7fLtDfvh/",
       ],
       socialEvidence: [
         {
           platform: "Facebook",
-          url: "https://www.facebook.com/gv.monthly/videos/1563853208056682/",
-          observed_at: "2026-06-29",
-          visible_metrics: "搜尋摘要可見為遠見天下文化影片貼文；完整留言、觀看與互動數需登入。",
+          url: "https://www.facebook.com/gv.monthly/videos/1012439868422235/",
+          observed_at: "2026-07-05",
+          visible_metrics: "搜尋摘要顯示4天前推廣《AI組織效能實戰課》，主打AI洞察分析與紅軍對抗；完整留言、觀看與互動數需登入。",
           identity_signal: "主辦方/媒體帳號",
-          sentiment_context: "ad-like；主打非技術主管也要親手操作AI",
+          sentiment_context: "ad-like；主打AI決策掌控與組織工作流",
           credibility_grade: "C",
-          note: "可作為市場投放與主題熱度弱訊號，不能當學員滿意度。",
+          note: "可作為招生語言轉向市場情報與風險防錯的弱訊號，不能當學員滿意度。",
+        },
+        {
+          platform: "YouTube",
+          url: "https://www.youtube.com/watch?v=v2v83GNl2AY",
+          observed_at: "2026-07-05",
+          visible_metrics: "搜尋摘要顯示2週前影片，導流AI組織效能實戰課；公開摘要未提供完整觀看、留言與按讚。",
+          identity_signal: "主辦方頻道",
+          sentiment_context: "educational/ad-like",
+          credibility_grade: "C",
+          note: "影音投放密集，證明主題推廣中；仍缺第三方學員心得。",
         },
         {
           platform: "Instagram",
           url: "https://www.instagram.com/reel/DYj7fLtDfvh/",
-          observed_at: "2026-06-29",
+          observed_at: "2026-07-05",
           visible_metrics: "搜尋摘要可見口碑加開與實戰/進階班；完整留言與按讚數不可公開查核/需登入。",
           identity_signal: "主辦方或轉發帳號",
           sentiment_context: "positive/ad-like",
@@ -120,7 +151,7 @@ window.COURSE_RECOMMENDATIONS = {
         {
           platform: "Threads/X/Dcard/YouTube",
           url: "不可公開查核/需登入或未找到明確公開討論",
-          observed_at: "2026-06-29",
+          observed_at: "2026-07-05",
           visible_metrics: "不可公開查核/需登入",
           identity_signal: "unknown",
           sentiment_context: "unclear",
@@ -139,12 +170,12 @@ window.COURSE_RECOMMENDATIONS = {
         "陳百州適合從損益表與營運視角切入，策略顧問補方法論，企業CEO個案來賓補真實成長困境。",
       targetAudience: "企業主、CEO、總經理、二代接班、核心經營團隊",
       marketSignal:
-        "商周百億CEO班用BCG方法論、教練團與成長藍圖建立百萬級學程；2026第三屆公開定價128萬元、每班50人、兩年40堂課，代表企業主願意為成長路徑付高價。",
+        "商周百億CEO班用BCG方法論、教練團與成長藍圖建立百萬級學程；2026第三屆公開定價128萬元、每班50人、兩年40堂課。陳百州經營決策實戰班則把AI市場情報與第二曲線納入5天中高價工作坊，代表企業主願意為可落地成長路徑付費。",
       productStructure: [
         "課前：企業成長卡點診斷。",
         "第1天：營收停滯與利潤結構解剖。",
-        "第2天：第二曲線機會池與資源配置。",
-        "第3天：三年成長藍圖發表與教練回饋。",
+        "第2天：AI市場情報驗證與第二曲線機會池。",
+        "第3天：資源配置、三年成長藍圖發表與教練回饋。",
       ],
       rewrittenCopy: {
         headline: "企業不是不努力，是缺一張能落地的成長藍圖",
@@ -164,12 +195,13 @@ window.COURSE_RECOMMENDATIONS = {
         "https://bwlearning.businessweekly.com.tw/teachers",
         "https://leaderimpact.cwgv.com.tw/course/1626",
         "https://www.facebook.com/bwlearning/posts/1373069844858043/",
+        "https://www.youtube.com/watch?v=KXP3CRPos_M",
       ],
       socialEvidence: [
         {
           platform: "Facebook",
           url: "https://www.facebook.com/bwlearning/posts/1373069844858043/",
-          observed_at: "2026-06-29",
+          observed_at: "2026-07-05",
           visible_metrics: "搜尋摘要可見 28 reactions、1 comment，貼文連到第三屆限量招生與說明會即將額滿。",
           identity_signal: "主辦方帳號",
           sentiment_context: "ad-like/positive",
@@ -177,9 +209,19 @@ window.COURSE_RECOMMENDATIONS = {
           note: "互動量不高，但與官方頁第三屆席位訊號相互印證。",
         },
         {
+          platform: "YouTube",
+          url: "https://www.youtube.com/watch?v=KXP3CRPos_M",
+          observed_at: "2026-07-05",
+          visible_metrics: "搜尋摘要顯示2個月前影片，導流百億CEO班最後席次與限額預約說明會；完整留言、按讚與觀看需進頁查核。",
+          identity_signal: "主辦方頻道",
+          sentiment_context: "ad-like/positive",
+          credibility_grade: "C",
+          note: "可支撐連續招生與高單價敘事，仍非獨立口碑。",
+        },
+        {
           platform: "Facebook",
           url: "https://www.facebook.com/bwlearning/videos/1222260212831248/",
-          observed_at: "2026-06-29",
+          observed_at: "2026-07-05",
           visible_metrics: "搜尋摘要可見2025年第二屆招生影片；完整觀看、留言與分享需登入。",
           identity_signal: "主辦方帳號",
           sentiment_context: "ad-like",
@@ -187,9 +229,19 @@ window.COURSE_RECOMMENDATIONS = {
           note: "重點是連續屆次與招生敘事，不作為滿意度證據。",
         },
         {
-          platform: "Threads/X/Dcard/Instagram/YouTube",
+          platform: "Dcard",
+          url: "https://www.dcard.tw/topics/%E7%99%BE%E5%84%84CEO%E7%8F%AD",
+          observed_at: "2026-07-05",
+          visible_metrics: "公開摘要可見百億CEO班主題頁 1 posts、0 followers；相關貼文顯示 2 hearts，無留言。",
+          identity_signal: "anonymous/student forum",
+          sentiment_context: "neutral/questioning；討論焦點是百萬級學費與EMBA比較",
+          credibility_grade: "C",
+          note: "可作為價格門檻引發外部討論的弱訊號，不代表高階買方滿意度。",
+        },
+        {
+          platform: "Threads/X/Instagram",
           url: "不可公開查核/需登入或未找到明確公開討論",
-          observed_at: "2026-06-29",
+          observed_at: "2026-07-05",
           visible_metrics: "不可公開查核/需登入",
           identity_signal: "unknown",
           sentiment_context: "unclear",
@@ -236,7 +288,7 @@ window.COURSE_RECOMMENDATIONS = {
         {
           platform: "Facebook",
           url: "https://www.facebook.com/hbrtaiwan/videos/1986073702343540/",
-          observed_at: "2026-06-29",
+          observed_at: "2026-07-05",
           visible_metrics: "搜尋摘要可見4個月前課程說明會影片；完整觀看、留言與互動數需登入。",
           identity_signal: "主辦方帳號",
           sentiment_context: "ad-like/positive",
@@ -244,19 +296,19 @@ window.COURSE_RECOMMENDATIONS = {
           note: "可觀察到核心幹部共學與共同語言的招生語言。",
         },
         {
-          platform: "Facebook",
-          url: "https://www.facebook.com/hashtag/hbr%E5%80%8B%E6%A1%88%E5%85%B1%E5%AD%B8%E6%9C%83/",
-          observed_at: "2026-06-29",
-          visible_metrics: "Hashtag探索頁可見，但多數內容需登入；不可完整公開查核。",
-          identity_signal: "mixed/unknown",
-          sentiment_context: "unclear",
-          credibility_grade: "D",
-          note: "不能用作第三方口碑，只能列為待補查。",
+          platform: "YouTube",
+          url: "https://www.youtube.com/watch?v=vr0YBUC28gY",
+          observed_at: "2026-07-05",
+          visible_metrics: "搜尋摘要顯示上月HBR個案共學會影片，主打哈佛式個案教學與台灣本土個案；完整觀看、留言與按讚需進頁查核。",
+          identity_signal: "主辦方頻道",
+          sentiment_context: "educational/ad-like",
+          credibility_grade: "C",
+          note: "可支撐本土個案與決策訓練的投放語言，仍非第三方學員口碑。",
         },
         {
           platform: "Threads/X/Dcard/Instagram/YouTube",
           url: "不可公開查核/需登入或未找到明確公開討論",
-          observed_at: "2026-06-29",
+          observed_at: "2026-07-05",
           visible_metrics: "不可公開查核/需登入",
           identity_signal: "unknown",
           sentiment_context: "unclear",
@@ -304,7 +356,7 @@ window.COURSE_RECOMMENDATIONS = {
         {
           platform: "BusinessWeekly",
           url: "https://www.businessweekly.com.tw/management/blog/3017617",
-          observed_at: "2026-06-29",
+          observed_at: "2026-07-05",
           visible_metrics: "官方媒體文章揭露過去五年、年年滿額、續班率九成、90位竹科企業領袖參與。",
           identity_signal: "主辦方媒體文章",
           sentiment_context: "positive/brand-controlled",
@@ -314,7 +366,7 @@ window.COURSE_RECOMMENDATIONS = {
         {
           platform: "Instagram",
           url: "https://www.instagram.com/jonathanz917/",
-          observed_at: "2026-06-29",
+          observed_at: "2026-07-05",
           visible_metrics: "搜尋摘要可見個人帳號提及商周CEO50失敗學心得；完整貼文與互動數需登入。",
           identity_signal: "public individual/needs verification",
           sentiment_context: "positive",
@@ -324,7 +376,7 @@ window.COURSE_RECOMMENDATIONS = {
         {
           platform: "Threads/X/Dcard/Facebook/YouTube",
           url: "不可公開查核/需登入或未找到明確公開討論",
-          observed_at: "2026-06-29",
+          observed_at: "2026-07-05",
           visible_metrics: "不可公開查核/需登入",
           identity_signal: "unknown",
           sentiment_context: "unclear",
@@ -343,7 +395,7 @@ window.COURSE_RECOMMENDATIONS = {
         "接班課若沒有盤點工具會太像分享會；需要評鑑方法、家族企業經驗與組織設計共同支撐。",
       targetAudience: "企業主、二代接班、CHRO、人資長、事業部主管",
       marketSignal:
-        "DDI高階評鑑、商周EVP、東海EMBA企業二代組都說明人才接班是企業主與HR共同關心的高階議題；本週另看到卡內基二代接班溝通與360d AI適性力文章，顯示接班產品可結合溝通、測評與AI人才策略。",
+        "DDI高階評鑑、商周EVP、東海EMBA企業二代組都說明人才接班是企業主與HR共同關心的高階議題；DDI公開文章指出僅6% HR有信心企業已準備好足以承接關鍵職位的接班梯隊，顯示接班產品可結合溝通、測評與AI人才策略。",
       productStructure: [
         "課前：接班與高潛人才問卷。",
         "第1天：接班風險與關鍵職位盤點。",
@@ -366,6 +418,7 @@ window.COURSE_RECOMMENDATIONS = {
       evidenceUrls: [
         "https://www.ddiworld.com.tw/search?keys=%E9%A0%98%E5%B0%8E%E5%8A%9B",
         "https://www.ddiworld.com.tw/search?keys=%E4%BA%BA%E6%89%8D%E8%A9%95%E9%91%91",
+        "https://www.ddiworld.com.tw/resource/news/ddi_cheers_Leadershipgap_2025",
         "https://bwlearning.businessweekly.com.tw/evp",
         "https://emba.thu.edu.tw/",
         "https://www.carnegie.com.tw/event-list/seminar-successor-leadership-communication",
@@ -375,7 +428,7 @@ window.COURSE_RECOMMENDATIONS = {
         {
           platform: "Facebook",
           url: "https://www.facebook.com/DDI.Taiwan/videos/1234085465367036/",
-          observed_at: "2026-06-29",
+          observed_at: "2026-07-05",
           visible_metrics: "搜尋摘要可見DDI Taiwan 2025全球領導力展望台北峰會影片，主題含人才盤點重要性；完整互動數需登入。",
           identity_signal: "DDI Taiwan官方帳號",
           sentiment_context: "thought-leadership/neutral-positive",
@@ -385,7 +438,7 @@ window.COURSE_RECOMMENDATIONS = {
         {
           platform: "Facebook",
           url: "https://m.facebook.com/100064651211329/photos/1171089641722732/",
-          observed_at: "2026-06-29",
+          observed_at: "2026-07-05",
           visible_metrics: "搜尋摘要可見商周EVP組織領袖班學員與台灣微軟人資長合照；完整互動數需登入。",
           identity_signal: "主辦方帳號/學員群像",
           sentiment_context: "positive/brand-controlled",
@@ -395,7 +448,7 @@ window.COURSE_RECOMMENDATIONS = {
         {
           platform: "Threads/X/Dcard/Instagram/YouTube",
           url: "不可公開查核/需登入或未找到明確公開討論",
-          observed_at: "2026-06-29",
+          observed_at: "2026-07-05",
           visible_metrics: "不可公開查核/需登入",
           identity_signal: "unknown",
           sentiment_context: "unclear",
@@ -414,7 +467,7 @@ window.COURSE_RECOMMENDATIONS = {
         "李聖珉的問題解決與批判思考適合打底，搭配董事、投資人或CFO能把表達場景拉到高階決策。",
       targetAudience: "高階主管、策略幕僚、事業部主管、二代接班、對董事會簡報者",
       marketSignal:
-        "問題解決、批判思考與駐足思考表達課程持續加開；商周駐足思考表達班春季班已滿班、秋季班開放報名，代表市場需要把複雜議題講清楚、講到能決策。",
+        "問題解決、批判思考與駐足思考表達課程持續投放；李聖珉課程官方頁顯示2026/6/24、7/1兩次下午課程與7/22線上即時諮詢，商周駐足思考表達班春季班已滿班、秋季班開放報名，代表市場需要把複雜議題講清楚、講到能決策。",
       productStructure: [
         "第1天：高階問題定義與決策樹。",
         "第2天：策略敘事、數據故事與利害關係人地圖。",
@@ -444,7 +497,7 @@ window.COURSE_RECOMMENDATIONS = {
         {
           platform: "YouTube",
           url: "https://www.youtube.com/watch?v=Q_9z0nm_1kQ",
-          observed_at: "2026-06-29",
+          observed_at: "2026-07-05",
           visible_metrics: "搜尋摘要可見2個月前領導影響力學院影片；完整觀看數、留言與按讚需進頁或登入後查核。",
           identity_signal: "主辦方頻道",
           sentiment_context: "ad-like/educational",
@@ -452,9 +505,19 @@ window.COURSE_RECOMMENDATIONS = {
           note: "可證明課程影音投放與主題語言，不能視為學員回饋。",
         },
         {
+          platform: "YouTube",
+          url: "https://www.youtube.com/watch?v=VxSFtqLNSnU",
+          observed_at: "2026-07-05",
+          visible_metrics: "搜尋摘要顯示上月學員推薦影片，標示中山醫學大學附設醫院副院長應宗和；完整觀看、留言與按讚需進頁查核。",
+          identity_signal: "官方頻道/具名學員推薦",
+          sentiment_context: "positive/brand-controlled",
+          credibility_grade: "B",
+          note: "具名學員身份提高可信度，但仍由主辦方發布，建議再做第三方職稱交叉查核。",
+        },
+        {
           platform: "Facebook",
           url: "https://www.facebook.com/bwnet.fans/videos/1048299793225260/",
-          observed_at: "2026-06-29",
+          observed_at: "2026-07-05",
           visible_metrics: "搜尋摘要可見商周駐足思考表達班影片；完整互動數需登入。",
           identity_signal: "主辦方媒體帳號",
           sentiment_context: "ad-like",
@@ -464,7 +527,7 @@ window.COURSE_RECOMMENDATIONS = {
         {
           platform: "Threads/X/Dcard/Instagram",
           url: "不可公開查核/需登入或未找到明確公開討論",
-          observed_at: "2026-06-29",
+          observed_at: "2026-07-05",
           visible_metrics: "不可公開查核/需登入",
           identity_signal: "unknown",
           sentiment_context: "unclear",

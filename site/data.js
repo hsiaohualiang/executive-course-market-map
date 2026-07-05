@@ -1,6 +1,6 @@
 window.COURSE_MARKET_DATA = {
   "meta": {
-    "generated_at": "2026-06-22",
+    "generated_at": "2026-07-05",
     "scope": "台灣市場最近半年可查之線下/實體高階經理人、主管領導力、CEO/EMBA與顧問公司課程；含公開班、學程、模組與論壇。",
     "raw_observations": 1650,
     "unique_activity_events": 562,

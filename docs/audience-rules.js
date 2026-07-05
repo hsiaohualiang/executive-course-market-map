@@ -1,6 +1,6 @@
 window.COURSE_AUDIENCE_RULES = {
   meta: {
-    last_updated: "2026-06-29",
+    last_updated: "2026-07-05",
     method:
       "目標客群先取官方頁或既有資料的適用對象，再依課名、類別、主辦單位、價格帶與產品型態做判讀。若未公開，標示為分析推論，不當作官方事實。",
   },
@@ -54,10 +54,10 @@ window.COURSE_AUDIENCE_RULES = {
       match: { titleIncludes: ["陳百州", "經營決策"] },
       primaryAudience: "企業主、二代接班、營運主管、財務主管、核心團隊",
       decisionMaker: "企業主、總經理或核心經營團隊共同決策",
-      buyerContext: "需要把財務、營運與三年成長策略整合成共同決策語言",
-      bestFit: "已有營收與組織規模，想讓核心團隊一起看懂經營數字與成長路徑",
+      buyerContext: "需要把財務、營運、AI市場情報與三年成長策略整合成共同決策語言",
+      bestFit: "已有營收與組織規模，想讓核心團隊一起看懂經營數字、驗證市場情報與配置第二曲線資源",
       notFit: "只需要個人財務入門或沒有經營決策權的基層主管",
-      confidence: "A：官方頁有明確對象、價格、日期與師資",
+      confidence: "A：官方頁有明確對象、價格、日期、團報方案、AI市場情報與產出成果",
     },
     {
       match: { titleIncludes: ["AI組織效能", "給企業主管的AI"] },
@@ -72,10 +72,10 @@ window.COURSE_AUDIENCE_RULES = {
       match: { titleIncludes: ["李聖珉", "問題解決與批判思考"] },
       primaryAudience: "中高階主管、策略幕僚、專案負責人、經營管理人才",
       decisionMaker: "個人自費、主管推薦，或企業 L&D/HR 採購",
-      buyerContext: "需要結構化思考、定義問題、做決策與影響跨部門利害關係人",
-      bestFit: "常面對複雜問題、跨部門協作與高階簡報的主管或幕僚",
+      buyerContext: "需要結構化思考、定義問題、判斷AI答案品質、做決策與影響跨部門利害關係人",
+      bestFit: "常面對複雜問題、AI輔助分析、跨部門協作與高階簡報的主管或幕僚",
       notFit: "只需要基礎簡報技巧或不需處理複雜決策的人員",
-      confidence: "A-：官方頁有師資、日期與線上即時諮詢加碼；價格需透過LINE/諮詢頁確認",
+      confidence: "A-：官方頁有2026/6/24、7/1課程、師資、地點與7/22線上即時諮詢；價格需透過LINE/諮詢頁確認",
     },
     {
       match: { titleIncludes: ["駐足思考表達班"] },
@@ -249,6 +249,30 @@ window.COURSE_AUDIENCE_RULES = {
       decisionMaker: "CEO、CHRO、人資長或轉型辦公室",
       buyerContext: "AI導入不只改流程，也重塑人才標準、適性溝通、角色配置與接班梯隊",
       bestFit: "正在推AI轉型，同時面對高潛辨識、關鍵人才留任與組織能力升級的企業",
+    },
+    AI市場情報與決策雷達: {
+      primaryAudience: "企業主、總經理、策略主管、營運主管、二代接班與核心幕僚",
+      decisionMaker: "企業主、總經理、策略長或事業單位主管",
+      buyerContext: "AI導入開始從工具效率走向市場情報、競爭分析、紅軍對抗與資源配置決策",
+      bestFit: "面臨新市場、競爭者變化、第二曲線探索，且需要把外部情報變成決策節奏的企業",
+    },
+    AI資料治理與決策權: {
+      primaryAudience: "企業主、CEO、CIO、資安/法遵主管、資料治理與營運主管",
+      decisionMaker: "CEO、CIO、法遵主管或資料治理委員會",
+      buyerContext: "AI導入後，資料主導權、使用權限、模型輸出責任與跨部門決策權需要重新界定",
+      bestFit: "已有AI導入、資料分散、跨部門權責不清，或需面對客戶/法規資料治理要求的企業",
+    },
+    Agent服務產品化: {
+      primaryAudience: "專業服務業負責人、顧問公司主管、SaaS/數位產品主管、營運主管",
+      decisionMaker: "企業主、總經理、產品長或事業單位主管",
+      buyerContext: "企業開始思考如何把AI Agent從內部效率工具，轉成可收費、可複製、可維運的服務產品",
+      bestFit: "有專業知識資產、服務流程可標準化，且正在尋找AI化第二曲線的企業",
+    },
+    雙軌轉型工具包: {
+      primaryAudience: "企業主、CEO、策略主管、組織發展主管、新事業負責人",
+      decisionMaker: "企業主、CEO、策略長或轉型辦公室",
+      buyerContext: "本業需要再成長，同時又要低風險孵化新事業，因此需要診斷、路線圖、KPI與風險掃描工具",
+      bestFit: "本業成長趨緩、已有新事業想法但缺少治理節奏與資源配置機制的成熟企業",
     },
     組織文化與學習型組織: {
       primaryAudience: "CEO、HR、組織發展主管、文化推動者",

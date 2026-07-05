@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28",
-  "course_count": 113,
+  "generated_at": "2026-07-05",
+  "course_count": 114,
   "courses": [
     {
       "key": "商周CEO學院::商周百億CEO班（整體學程）::https://bwlearning.businessweekly.com.tw/billionceo",
@@ -1696,6 +1696,21 @@
       "hotness": "官方頁 2026/03/20 發佈，主題明確鎖定企業二代接班溝通。",
       "reputation": "官方品牌與研討會頁可查；缺少公開學員回饋與互動數。",
       "source_url": "https://www.carnegie.com.tw/event-list/seminar-successor-leadership-communication"
+    },
+    {
+      "key": "領導影響力學院::李聖珉：問題解決與批判思考｜培養AI時代必備的決策力與影響力::https://leaderimpact.cwgv.com.tw/course/1576",
+      "id": "manual-li-ctps-2026-addon",
+      "title": "李聖珉：問題解決與批判思考｜培養AI時代必備的決策力與影響力",
+      "provider": "領導影響力學院",
+      "category": "問題解決與決策",
+      "date": "2026/6/24、7/1；7/22 線上即時諮詢",
+      "price": "未公開/需加入官方LINE或諮詢",
+      "location": "未公開/需確認",
+      "teacher": "李聖珉",
+      "data_quality": "B",
+      "hotness": "官方頁目前顯示 2026/6/24、7/1 兩次下午課程，另加碼 7/22 一小時線上即時諮詢；YouTube 與 Facebook/Instagram 可見多支招生短影音。",
+      "reputation": "官方頁有歷屆學員好評推薦區；YouTube 可見官方學員推薦影片；Facebook/Instagram 搜尋摘要可見近期推廣，但完整留言、按讚與觀看數多需進頁或登入查核。",
+      "source_url": "https://leaderimpact.cwgv.com.tw/course/1576"
     }
   ]
 }
