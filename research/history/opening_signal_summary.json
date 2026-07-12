@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-05",
-  "course_count": 114,
+  "generated_at": "2026-07-12",
+  "course_count": 115,
   "changed_count": 0,
   "removed_count": 1,
   "repeated_signal_count": 113,
   "changed": [],
   "removed": [
     {
-      "key": "領導影響力學院::李聖珉：問題解決與批判思考｜培養AI時代必備的決策力與影響力（好評加碼場）::https://leaderimpact.cwgv.com.tw/course/1634",
+      "key": "領導影響力學院::李聖珉：問題解決與批判思考｜培養AI時代必備的決策力與影響力::https://leaderimpact.cwgv.com.tw/course/1576",
       "id": "manual-li-ctps-2026-addon",
-      "title": "李聖珉：問題解決與批判思考｜培養AI時代必備的決策力與影響力（好評加碼場）",
+      "title": "李聖珉：問題解決與批判思考｜培養AI時代必備的決策力與影響力",
       "provider": "領導影響力學院",
       "category": "問題解決與決策",
       "date": "2026/6/24、7/1；7/22 線上即時諮詢",
@@ -19,7 +19,7 @@
       "data_quality": "B",
       "hotness": "官方頁目前顯示 2026/6/24、7/1 兩次下午課程，另加碼 7/22 一小時線上即時諮詢；YouTube 與 Facebook/Instagram 可見多支招生短影音。",
       "reputation": "官方頁有歷屆學員好評推薦區；YouTube 可見官方學員推薦影片；Facebook/Instagram 搜尋摘要可見近期推廣，但完整留言、按讚與觀看數多需進頁或登入查核。",
-      "source_url": "https://leaderimpact.cwgv.com.tw/course/1634"
+      "source_url": "https://leaderimpact.cwgv.com.tw/course/1576"
     }
   ],
   "repeated": [
@@ -27,791 +27,791 @@
       "key": "商周CEO學院::商周百億CEO班（整體學程）::https://bwlearning.businessweekly.com.tw/billionceo",
       "title": "商周百億CEO班（整體學程）",
       "provider": "商周CEO學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "商周CEO學院::商周百億CEO班｜框架與概論：Why / Where / How 成長藍圖::https://bwlearning.businessweekly.com.tw/billionceo",
       "title": "商周百億CEO班｜框架與概論：Why / Where / How 成長藍圖",
       "provider": "商周CEO學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "商周CEO學院::商周百億CEO班｜制定方向：成長情境與差距分析::https://bwlearning.businessweekly.com.tw/billionceo",
       "title": "商周百億CEO班｜制定方向：成長情境與差距分析",
       "provider": "商周CEO學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "商周CEO學院::商周百億CEO班｜識別機會：商業模式差距與策略措施::https://bwlearning.businessweekly.com.tw/billionceo",
       "title": "商周百億CEO班｜識別機會：商業模式差距與策略措施",
       "provider": "商周CEO學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "商周CEO學院::商周百億CEO班｜評估策略：排序與選擇成長策略::https://bwlearning.businessweekly.com.tw/billionceo",
       "title": "商周百億CEO班｜評估策略：排序與選擇成長策略",
       "provider": "商周CEO學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "商周CEO學院::商周百億CEO班｜規劃行動：策略拆解與資源分配::https://bwlearning.businessweekly.com.tw/billionceo",
       "title": "商周百億CEO班｜規劃行動：策略拆解與資源分配",
       "provider": "商周CEO學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "商周CEO學院::商周百億CEO班｜發表與分享：成長藍圖共創::https://bwlearning.businessweekly.com.tw/billionceo",
       "title": "商周百億CEO班｜發表與分享：成長藍圖共創",
       "provider": "商周CEO學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "商周CEO學院::商周CEO50失敗學::https://bwlearning.businessweekly.com.tw/ceo50",
       "title": "商周CEO50失敗學",
       "provider": "商周CEO學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "商周CEO學院::商周雙軌轉型組織領袖班｜六月班::https://bwlearning.businessweekly.com.tw/dt",
       "title": "商周雙軌轉型組織領袖班｜六月班",
       "provider": "商周CEO學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "商周CEO學院::商周雙軌轉型組織領袖班｜九月班::https://bwlearning.businessweekly.com.tw/dt",
       "title": "商周雙軌轉型組織領袖班｜九月班",
       "provider": "商周CEO學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "商周CEO學院::商周EVP人才戰略課｜八月班::https://bwlearning.businessweekly.com.tw/evp",
       "title": "商周EVP人才戰略課｜八月班",
       "provider": "商周CEO學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "商周CEO學院::商周EVP人才戰略課｜十月班::https://bwlearning.businessweekly.com.tw/evp",
       "title": "商周EVP人才戰略課｜十月班",
       "provider": "商周CEO學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "商周CEO學院::商周駐足思考表達班｜春季班::https://bwlearning.businessweekly.com.tw/expression",
       "title": "商周駐足思考表達班｜春季班",
       "provider": "商周CEO學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "商周CEO學院::商周駐足思考表達班｜秋季班::https://bwlearning.businessweekly.com.tw/expression",
       "title": "商周駐足思考表達班｜秋季班",
       "provider": "商周CEO學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "領導影響力學院::陳百州｜經營決策實戰班：從損益表到三年成長策略｜台北班::https://leaderimpact.cwgv.com.tw/course/1626",
       "title": "陳百州｜經營決策實戰班：從損益表到三年成長策略｜台北班",
       "provider": "領導影響力學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "領導影響力學院::陳百州｜經營決策實戰班：從損益表到三年成長策略｜台中班::https://leaderimpact.cwgv.com.tw/course/1629",
       "title": "陳百州｜經營決策實戰班：從損益表到三年成長策略｜台中班",
       "provider": "領導影響力學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "領導影響力學院::蘇欽豐｜AI組織效能實戰課｜台北班::https://leaderimpact.cwgv.com.tw/course/1630",
       "title": "蘇欽豐｜AI組織效能實戰課｜台北班",
       "provider": "領導影響力學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "領導影響力學院::陶韻智｜給企業主管的AI實戰課｜實戰班::https://leaderimpact.cwgv.com.tw/course/1595",
       "title": "陶韻智｜給企業主管的AI實戰課｜實戰班",
       "provider": "領導影響力學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "領導影響力學院::陶韻智｜給企業主管的AI實戰課｜進階班::https://leaderimpact.cwgv.com.tw/course/1595",
       "title": "陶韻智｜給企業主管的AI實戰課｜進階班",
       "provider": "領導影響力學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "領導影響力學院::李聖珉｜問題解決與批判思考｜台北班::https://leaderimpact.cwgv.com.tw/course/1576",
       "title": "李聖珉｜問題解決與批判思考｜台北班",
       "provider": "領導影響力學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "領導影響力學院::李聖珉｜問題解決與批判思考｜好評加碼場::https://leaderimpact.cwgv.com.tw/course/1634",
       "title": "李聖珉｜問題解決與批判思考｜好評加碼場",
       "provider": "領導影響力學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "經理人商學院::帶人的技術｜關鍵指導力::https://edm.managertoday.com.tw/lead/",
       "title": "帶人的技術｜關鍵指導力",
       "provider": "經理人商學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "經理人商學院::帶人的技術｜教練領導學::https://edm.managertoday.com.tw/lead/",
       "title": "帶人的技術｜教練領導學",
       "provider": "經理人商學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "經理人商學院::創造績效的技術｜高績效團隊經營::https://edm.managertoday.com.tw/performance_team/",
       "title": "創造績效的技術｜高績效團隊經營",
       "provider": "經理人商學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "經理人商學院::創造績效的技術｜績效管理實戰力::https://edm.managertoday.com.tw/performance_pf/",
       "title": "創造績效的技術｜績效管理實戰力",
       "provider": "經理人商學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "經理人商學院::創造績效的技術｜三堂課學程::https://edm.managertoday.com.tw/performance_driven_method/",
       "title": "創造績效的技術｜三堂課學程",
       "provider": "經理人商學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "經理人商學院::AI實戰工作術｜顛覆職場新模式加開場::https://edm.managertoday.com.tw/AI_smartwork/",
       "title": "AI實戰工作術｜顛覆職場新模式加開場",
       "provider": "經理人商學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "經理人商學院::打造AI自動化工作流::https://edm.managertoday.com.tw/logic_of_ai/",
       "title": "打造AI自動化工作流",
       "provider": "經理人商學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "經理人商學院::中高階管理層必修AI決策領導力課程::https://edm.managertoday.com.tw/2026_taitra_aiadvanced_web/",
       "title": "中高階管理層必修AI決策領導力課程",
       "provider": "經理人商學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "經理人商學院::未來經理人年會｜AI for Impact::https://edm.managertoday.com.tw/future-manager/",
       "title": "未來經理人年會｜AI for Impact",
       "provider": "經理人商學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "經理人商學院::何飛鵬的主管養成之道::https://edm.managertoday.com.tw/the_managers_toolkit/",
       "title": "何飛鵬的主管養成之道",
       "provider": "經理人商學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "經理人商學院::邁向卓越的全能經理人｜何飛鵬 x 劉必榮::https://edm.managertoday.com.tw/nextleader/",
       "title": "邁向卓越的全能經理人｜何飛鵬 x 劉必榮",
       "provider": "經理人商學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "經理人商學院::劉必榮的商業談判全攻略::https://edm.managertoday.com.tw/negotiation-program/",
       "title": "劉必榮的商業談判全攻略",
       "provider": "經理人商學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "經理人商學院::從行動者到造局者：升級謀略領導力::https://edm.managertoday.com.tw/negotiation/2026q4/",
       "title": "從行動者到造局者：升級謀略領導力",
       "provider": "經理人商學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "經理人商學院::超級店長學｜啟動情緒價值，轉動門店高業績::https://edm.managertoday.com.tw/super/",
       "title": "超級店長學｜啟動情緒價值，轉動門店高業績",
       "provider": "經理人商學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "AMA美國管理協會（台灣）::AMA公開課｜韌性領導力::https://www.accupass.com/event/2602120752272009982481",
       "title": "AMA公開課｜韌性領導力",
       "provider": "AMA美國管理協會（台灣）",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "AMA美國管理協會（台灣）::AMA公開課｜問題解決與行動提案實戰訓練::https://www.accupass.com/event/2602120752272009982481",
       "title": "AMA公開課｜問題解決與行動提案實戰訓練",
       "provider": "AMA美國管理協會（台灣）",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "AMA美國管理協會（台灣）::AMA公開課｜領導成功的變革::https://www.accupass.com/event/2602120752272009982481",
       "title": "AMA公開課｜領導成功的變革",
       "provider": "AMA美國管理協會（台灣）",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "AMA美國管理協會（台灣）::AMA公開課｜從激勵到賦能::https://www.accupass.com/event/2602120752272009982481",
       "title": "AMA公開課｜從激勵到賦能",
       "provider": "AMA美國管理協會（台灣）",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "AMA美國管理協會（台灣）::AMA公開課｜建立高效的團隊::https://www.accupass.com/event/2602120752272009982481",
       "title": "AMA公開課｜建立高效的團隊",
       "provider": "AMA美國管理協會（台灣）",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "哈佛企管::哈佛企管｜財務戰略人力：零成本企業經營模擬::https://www.harment.com/open-course/high-class",
       "title": "哈佛企管｜財務戰略人力：零成本企業經營模擬",
       "provider": "哈佛企管",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "哈佛企管::哈佛企管｜成為企業講師的全攻略::https://www.harment.com/open-course/high-class",
       "title": "哈佛企管｜成為企業講師的全攻略",
       "provider": "哈佛企管",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "哈佛企管::哈佛企管｜因材施教的領導力SLII®｜07月班::https://www.harment.com/open-course/high-class",
       "title": "哈佛企管｜因材施教的領導力SLII®｜07月班",
       "provider": "哈佛企管",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "哈佛企管::哈佛企管｜跨越年齡差距的領導力實踐::https://www.harment.com/open-course/high-class",
       "title": "哈佛企管｜跨越年齡差距的領導力實踐",
       "provider": "哈佛企管",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "哈佛企管::哈佛企管｜領導力的五大修煉::https://www.harment.com/open-course/high-class",
       "title": "哈佛企管｜領導力的五大修煉",
       "provider": "哈佛企管",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "哈佛企管::哈佛企管｜因材施教的領導力SLII®｜08月班::https://www.harment.com/open-course/high-class",
       "title": "哈佛企管｜因材施教的領導力SLII®｜08月班",
       "provider": "哈佛企管",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "哈佛企管::哈佛企管｜領導員工變革策略的行動計劃::https://www.harment.com/open-course/high-class",
       "title": "哈佛企管｜領導員工變革策略的行動計劃",
       "provider": "哈佛企管",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "哈佛企管::哈佛企管｜實踐當責：驅動組織成果的核心::https://www.harment.com/open-course/high-class",
       "title": "哈佛企管｜實踐當責：驅動組織成果的核心",
       "provider": "哈佛企管",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "哈佛企管::哈佛企管｜因材施教的領導力SLII®｜09月班::https://www.harment.com/open-course/high-class",
       "title": "哈佛企管｜因材施教的領導力SLII®｜09月班",
       "provider": "哈佛企管",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "哈佛企管::哈佛企管｜勁道領導｜10月班::https://www.harment.com/open-course/high-class",
       "title": "哈佛企管｜勁道領導｜10月班",
       "provider": "哈佛企管",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "哈佛企管::哈佛企管｜減少孤軍奮戰，提升主管團隊領導力::https://www.harment.com/open-course/high-class",
       "title": "哈佛企管｜減少孤軍奮戰，提升主管團隊領導力",
       "provider": "哈佛企管",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "哈佛企管::哈佛企管｜壓力管理與化解衝突::https://www.harment.com/open-course/high-class",
       "title": "哈佛企管｜壓力管理與化解衝突",
       "provider": "哈佛企管",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "哈佛企管::哈佛企管｜因材施教的領導力SLII®｜11月班::https://www.harment.com/open-course/high-class",
       "title": "哈佛企管｜因材施教的領導力SLII®｜11月班",
       "provider": "哈佛企管",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "哈佛企管::哈佛企管｜領導者的高績效藍圖::https://www.harment.com/open-course/high-class",
       "title": "哈佛企管｜領導者的高績效藍圖",
       "provider": "哈佛企管",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "哈佛企管::哈佛企管｜Zodiak提升商業敏銳度::https://www.harment.com/open-course/high-class",
       "title": "哈佛企管｜Zodiak提升商業敏銳度",
       "provider": "哈佛企管",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "哈佛企管::哈佛企管｜勁道領導｜12月班::https://www.harment.com/open-course/high-class",
       "title": "哈佛企管｜勁道領導｜12月班",
       "provider": "哈佛企管",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "哈佛企管::哈佛企管｜因材施教的領導力SLII®｜12月班::https://www.harment.com/open-course/high-class",
       "title": "哈佛企管｜因材施教的領導力SLII®｜12月班",
       "provider": "哈佛企管",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "卡內基訓練::卡內基｜主管領導力養成班::https://www.carnegie.com.tw/course-list/course-for-personal-development-mj",
       "title": "卡內基｜主管領導力養成班",
       "provider": "卡內基訓練",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "卡內基訓練::卡內基｜高績效經理人班::https://www.carnegie.com.tw/course-list/course-for-personal-development-ltm/course-schedule",
       "title": "卡內基｜高績效經理人班",
       "provider": "卡內基訓練",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "卡內基訓練::卡內基｜AI時代的領導力思維研討會::https://www.carnegie.com.tw/event-list/seminar-ai-leadership-mindset",
       "title": "卡內基｜AI時代的領導力思維研討會",
       "provider": "卡內基訓練",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "中華民國企業經理協進會::中華民國企業經理協進會｜2026高階主管研習班（明達六期）::https://www.cpma.org.tw/news/main_detail.php?id=78",
       "title": "中華民國企業經理協進會｜2026高階主管研習班（明達六期）",
       "provider": "中華民國企業經理協進會",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "DDI美商宏智::DDI｜領導力@數位時代工作坊::https://www.ddiworld.com.tw/search?keys=%E9%A0%98%E5%B0%8E%E5%8A%9B",
       "title": "DDI｜領導力@數位時代工作坊",
       "provider": "DDI美商宏智",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "DDI美商宏智::DDI｜領導力學習旅程::https://www.ddiworld.com.tw/search?keys=%E9%A0%98%E5%B0%8E%E5%8A%9B",
       "title": "DDI｜領導力學習旅程",
       "provider": "DDI美商宏智",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "DDI美商宏智::DDI｜高階評鑑與接班人才盤點::https://www.ddiworld.com.tw/search?keys=%E9%A0%98%E5%B0%8E%E5%8A%9B",
       "title": "DDI｜高階評鑑與接班人才盤點",
       "provider": "DDI美商宏智",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "DDI美商宏智::DDI｜高潛人才發展方案::https://www.ddiworld.com.tw/search?keys=%E9%A0%98%E5%B0%8E%E5%8A%9B",
       "title": "DDI｜高潛人才發展方案",
       "provider": "DDI美商宏智",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "政大商學院::政大EMBA::https://emba.nccu.edu.tw/",
       "title": "政大EMBA",
       "provider": "政大商學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "台大管理學院::台大EMBA::https://management.ntu.edu.tw/EMBA",
       "title": "台大EMBA",
       "provider": "台大管理學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "台大管理學院::台大-復旦EMBA境外專班::https://management.ntu.edu.tw/EMBA",
       "title": "台大-復旦EMBA境外專班",
       "provider": "台大管理學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "成大管理學院::成大EMBA高階管理碩士在職專班::https://emba.ncku.edu.tw/",
       "title": "成大EMBA高階管理碩士在職專班",
       "provider": "成大管理學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "成大管理學院::成大EMBA台北學分班第30期｜1月報名班::https://emba.ncku.edu.tw/p/406-1140-291603%2Cr11.php?Lang=zh-tw",
       "title": "成大EMBA台北學分班第30期｜1月報名班",
       "provider": "成大管理學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "成大管理學院::成大EMBA台北學分班第30期｜5月報名班::https://emba.ncku.edu.tw/p/404-1140-297492.php?Lang=zh-tw",
       "title": "成大EMBA台北學分班第30期｜5月報名班",
       "provider": "成大管理學院",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "東海大學::東海EMBA｜CEO組::https://emba.thu.edu.tw/",
       "title": "東海EMBA｜CEO組",
       "provider": "東海大學",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "東海大學::東海EMBA｜企業二代組::https://emba.thu.edu.tw/",
       "title": "東海EMBA｜企業二代組",
       "provider": "東海大學",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "東海大學::東海EMBA｜企業菁英組::https://emba.thu.edu.tw/",
       "title": "東海EMBA｜企業菁英組",
       "provider": "東海大學",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "中興大學::中興EMBA｜企管組::https://www.emba.nchu.edu.tw/",
       "title": "中興EMBA｜企管組",
       "provider": "中興大學",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "中興大學::中興EMBA｜財金組::https://www.emba.nchu.edu.tw/",
       "title": "中興EMBA｜財金組",
       "provider": "中興大學",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "中興大學::中興EMBA｜會管組::https://www.emba.nchu.edu.tw/",
       "title": "中興EMBA｜會管組",
       "provider": "中興大學",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "中興大學::中興EMBA｜行銷組::https://www.emba.nchu.edu.tw/",
       "title": "中興EMBA｜行銷組",
       "provider": "中興大學",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "中興大學::中興EMBA｜科健組::https://www.emba.nchu.edu.tw/",
       "title": "中興EMBA｜科健組",
       "provider": "中興大學",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "中興大學::中興EMBA｜領袖組::https://www.emba.nchu.edu.tw/",
       "title": "中興EMBA｜領袖組",
       "provider": "中興大學",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "中興大學::中興EMBA｜越南台商組::https://www.emba.nchu.edu.tw/",
       "title": "中興EMBA｜越南台商組",
       "provider": "中興大學",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "陽明交通大學::陽明交大EMBA::https://emba.nycu.edu.tw/zh_tw/Admission",
       "title": "陽明交大EMBA",
       "provider": "陽明交通大學",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "陽明交通大學::陽明交大｜AI轉型總裁培訓班::https://emba.nycu.edu.tw/zh_tw/news?category%5B%5D=5892c6a902dcf015cf001b46&category%5B%5D=5892c6aa02dcf015cf001b48&tags%5B%5D=all",
       "title": "陽明交大｜AI轉型總裁培訓班",
       "provider": "陽明交通大學",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "中央大學::中央大學EMBA｜115級招生說明會::https://emba.ncu.edu.tw/NationalCentralUniversityEMBA-352.html",
       "title": "中央大學EMBA｜115級招生說明會",
       "provider": "中央大學",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "中山大學::中山大學管理學院EMBA::https://emba.nsysu.edu.tw/",
       "title": "中山大學管理學院EMBA",
       "provider": "中山大學",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::【永續職能學程】7/31-8/1 永續治理管理師::https://www.accupass.com/event/2604230911281269528116",
       "title": "【永續職能學程】7/31-8/1 永續治理管理師",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::【永續職能學程】7/17-7/18 永續人資管理師::https://www.accupass.com/event/2604240711251577473332",
       "title": "【永續職能學程】7/17-7/18 永續人資管理師",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::【永續職能學程】8/7-8/8 永續品牌管理師::https://www.accupass.com/event/2605200533161117325621",
       "title": "【永續職能學程】8/7-8/8 永續品牌管理師",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::早鳥優惠《不對員工公開的數位轉型策略》創業者 | 老闆 | 企業主 專屬圓桌會議::https://www.accupass.com/event/2511271134251221897930",
       "title": "早鳥優惠《不對員工公開的數位轉型策略》創業者 | 老闆 | 企業主 專屬圓桌會議",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::RSG Taipei 2026：讓世界看見台灣。敏捷，從高階主管開始，進入每一個產業。::https://www.accupass.com/event/2602040216331132820730",
       "title": "RSG Taipei 2026：讓世界看見台灣。敏捷，從高階主管開始，進入每一個產業。",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::【實體公開班】故事領導力 Story-Powered Leadership® : 運用故事賦能你的領導力 [世界級經典課程]::https://www.accupass.com/event/2512130637084781329890",
       "title": "【實體公開班】故事領導力 Story-Powered Leadership® : 運用故事賦能你的領導力 [世界級經典課程]",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::【世界級經典課】情境領導 Situational Leadership® 課程 : 每個管理者的領導解方，發展人才的關鍵領導技能::https://www.accupass.com/event/2512091633557652401020",
       "title": "【世界級經典課】情境領導 Situational Leadership® 課程 : 每個管理者的領導解方，發展人才的關鍵領導技能",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::【TEJ 2026年ESG講座】金融合規全導航：接軌永續新準則與投融資實作重點::https://www.accupass.com/event/2605220555276995617370",
       "title": "【TEJ 2026年ESG講座】金融合規全導航：接軌永續新準則與投融資實作重點",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::【關鍵領導®】跨世代領導力 Fierce Conversation® : 教練有溫度，回饋有力度 ! 透過對話引導改變 ￜ 跨世代溝通課程::https://www.accupass.com/event/2512130649137115572490",
       "title": "【關鍵領導®】跨世代領導力 Fierce Conversation® : 教練有溫度，回饋有力度 ! 透過對話引導改變 ￜ 跨世代溝通課程",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::AI 時代下組織變革方程式：CXO 的大派遣時代::https://www.accupass.com/event/2605101638151770407660",
       "title": "AI 時代下組織變革方程式：CXO 的大派遣時代",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::PDP®企業主管領導力培訓工作坊 【2日工作坊】::https://www.accupass.com/event/2512260736141122315553",
       "title": "PDP®企業主管領導力培訓工作坊 【2日工作坊】",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::S學院 ESG系列四大實戰課程：「組織碳盤查+產品碳足跡+永續報告書撰寫+IFRS S1/S2撰寫」::https://www.accupass.com/event/2604082258011833820365",
       "title": "S學院 ESG系列四大實戰課程：「組織碳盤查+產品碳足跡+永續報告書撰寫+IFRS S1/S2撰寫」",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::企業經理精進讀書會｜林耀欽—《出海—台灣企業大未來》::https://www.accupass.com/event/2605110739061236472910",
       "title": "企業經理精進讀書會｜林耀欽—《出海—台灣企業大未來》",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::2026 第三屆 ESG 永續長「前瞻論壇」為永續尋找答案 ：ESG x AI 實戰轉型指南::https://www.accupass.com/event/2605110708248618183640",
       "title": "2026 第三屆 ESG 永續長「前瞻論壇」為永續尋找答案 ：ESG x AI 實戰轉型指南",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::美國地緣新局：全球供應鏈重組下的跨境營運決策實務::https://www.accupass.com/event/2605250521271344607866",
       "title": "美國地緣新局：全球供應鏈重組下的跨境營運決策實務",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::2026 AMA公開課程系列｜提升領導力 × 打造高績效團隊::https://www.accupass.com/event/2602120752272009982481",
       "title": "2026 AMA公開課程系列｜提升領導力 × 打造高績效團隊",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::【7/11，7/18實體付費課】CAIO 素養與實務：企業 AI 轉型高階主管八堂課，未來 CAIO 就是你::https://www.accupass.com/event/2605200645196011155550",
       "title": "【7/11，7/18實體付費課】CAIO 素養與實務：企業 AI 轉型高階主管八堂課，未來 CAIO 就是你",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::企業經理精進讀書會｜方燕玲—《富過三代X傳承永續 》::https://www.accupass.com/event/2606100706163320336030",
       "title": "企業經理精進讀書會｜方燕玲—《富過三代X傳承永續 》",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::EDA x 陳宗賢教授｜企業經營成功的計劃與管理::https://www.accupass.com/event/2604281413201606259388",
       "title": "EDA x 陳宗賢教授｜企業經營成功的計劃與管理",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::系統思考工作坊｜系統基模【六月週六實體班】::https://www.accupass.com/event/2603230231502120640786",
       "title": "系統思考工作坊｜系統基模【六月週六實體班】",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::人才佈局與績效管理實戰課｜把人放對位置，讓團隊不再只靠老闆撐::https://www.accupass.com/event/2605061415461619627057",
       "title": "人才佈局與績效管理實戰課｜把人放對位置，讓團隊不再只靠老闆撐",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::2026 AI暨ESG企業應用趨勢論壇::https://www.accupass.com/event/2606030557271819159463",
       "title": "2026 AI暨ESG企業應用趨勢論壇",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::與企業家有約｜王年清—《邁向成功：迅得企業發展之歷程與展望》::https://www.accupass.com/event/2606100614011705018637",
       "title": "與企業家有約｜王年清—《邁向成功：迅得企業發展之歷程與展望》",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::系統思考工作坊｜策略分析實作【八月實體週六班】::https://www.accupass.com/event/2603230229581249928258",
       "title": "系統思考工作坊｜策略分析實作【八月實體週六班】",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "Accupass活動主辦單位::打造賺錢接班梯隊 ~ AI人、橋、厚實力::https://www.accupass.com/event/2605010808264428135260",
       "title": "打造賺錢接班梯隊 ~ AI人、橋、厚實力",
       "provider": "Accupass活動主辦單位",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "哈佛商業評論・無限學習+::HBR個案共學會第17期::https://academy.hbrtaiwan.com/leadership",
       "title": "HBR個案共學會第17期",
       "provider": "哈佛商業評論・無限學習+",
-      "observed_snapshots_before_today": 2,
+      "observed_snapshots_before_today": 3,
       "repeat_signal": true
     },
     {
       "key": "商周CEO學院::商周駐足思考表達班::https://bwlearning.businessweekly.com.tw/expression",
       "title": "商周駐足思考表達班",
       "provider": "商周CEO學院",
-      "observed_snapshots_before_today": 1,
+      "observed_snapshots_before_today": 2,
       "repeat_signal": true
     },
     {
       "key": "Dale Carnegie Taiwan::企業二代接班致勝：用溝通贏得人心的領導力關鍵::https://www.carnegie.com.tw/event-list/seminar-successor-leadership-communication",
       "title": "企業二代接班致勝：用溝通贏得人心的領導力關鍵",
       "provider": "Dale Carnegie Taiwan",
-      "observed_snapshots_before_today": 1,
+      "observed_snapshots_before_today": 2,
       "repeat_signal": true
     }
   ]

@@ -204,7 +204,7 @@ function initMeta() {
   els.sourceCount.textContent = providers.length.toLocaleString("zh-Hant");
   els.rawCount.textContent = Number(meta.raw_observations || 0).toLocaleString("zh-Hant");
   els.detailCount.textContent = Number(meta.detail_pages_read || 0).toLocaleString("zh-Hant");
-  els.generatedAt.textContent = meta.generated_at || "-";
+  els.generatedAt.textContent = updateMeta.last_updated || meta.generated_at || "-";
   els.nextReview.textContent = updateMeta.next_review || "-";
   els.recommendationSummary.textContent = recommendationPayload.meta?.summary || "";
   els.recommendationUpdated.textContent = recommendationPayload.meta?.last_updated

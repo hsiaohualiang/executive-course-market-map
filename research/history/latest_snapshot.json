@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05",
-  "course_count": 114,
+  "generated_at": "2026-07-12",
+  "course_count": 115,
   "courses": [
     {
       "key": "商周CEO學院::商周百億CEO班（整體學程）::https://bwlearning.businessweekly.com.tw/billionceo",
@@ -1698,19 +1698,34 @@
       "source_url": "https://www.carnegie.com.tw/event-list/seminar-successor-leadership-communication"
     },
     {
-      "key": "領導影響力學院::李聖珉：問題解決與批判思考｜培養AI時代必備的決策力與影響力::https://leaderimpact.cwgv.com.tw/course/1576",
+      "key": "領導影響力學院::李聖珉：問題解決與批判思考｜培養AI時代必備的決策力與影響力::https://leaderimpact.cwgv.com.tw/course/1634",
       "id": "manual-li-ctps-2026-addon",
       "title": "李聖珉：問題解決與批判思考｜培養AI時代必備的決策力與影響力",
       "provider": "領導影響力學院",
       "category": "問題解決與決策",
-      "date": "2026/6/24、7/1；7/22 線上即時諮詢",
-      "price": "未公開/需加入官方LINE或諮詢",
-      "location": "未公開/需確認",
+      "date": "2026/9/29、10/6；10/28 線上即時諮詢",
+      "price": "早鳥 NT$19,000；原價 NT$24,000；2人以上團報每人折 NT$2,000",
+      "location": "政大公企中心",
       "teacher": "李聖珉",
       "data_quality": "B",
-      "hotness": "官方頁目前顯示 2026/6/24、7/1 兩次下午課程，另加碼 7/22 一小時線上即時諮詢；YouTube 與 Facebook/Instagram 可見多支招生短影音。",
-      "reputation": "官方頁有歷屆學員好評推薦區；YouTube 可見官方學員推薦影片；Facebook/Instagram 搜尋摘要可見近期推廣，但完整留言、按讚與觀看數多需進頁或登入查核。",
-      "source_url": "https://leaderimpact.cwgv.com.tw/course/1576"
+      "hotness": "官方最新課程頁顯示 2026/9/29、10/6 好評加碼場，另加碼 10/28 一小時線上即時諮詢；定價、團報折扣與舊6/24場次已截止訊號公開。",
+      "reputation": "官方頁有歷屆學員好評推薦區；YouTube 可見官方學員推薦影片；Instagram 搜尋摘要可見近期推廣，但完整留言、按讚與觀看數多需進頁或登入查核。",
+      "source_url": "https://leaderimpact.cwgv.com.tw/course/1634"
+    },
+    {
+      "key": "領導影響力學院::謝伯讓：主管的大腦升級課｜從有效溝通到精準決策::https://leaderimpact.cwgv.com.tw/course/1648",
+      "id": "manual-li-brain-upgrade-2026",
+      "title": "謝伯讓：主管的大腦升級課｜從有效溝通到精準決策",
+      "provider": "領導影響力學院",
+      "category": "神經科學決策與專注管理",
+      "date": "2026/8/22 10:00-17:00",
+      "price": "早鳥 NT$9,600；原價 NT$12,000",
+      "location": "台北市進出口公會",
+      "teacher": "謝伯讓",
+      "data_quality": "C",
+      "hotness": "官方最新課程頁列為趨勢主題，2026/8/22 唯一場；Instagram 搜尋摘要可見近兩週多則導流貼文。",
+      "reputation": "官方頁可查課程定位、對象、價格與地點；社群多為主辦方或轉載導流，缺少可驗證學員第三方心得。",
+      "source_url": "https://leaderimpact.cwgv.com.tw/course/1648"
     }
   ]
 }

@@ -1,8 +1,8 @@
 window.COURSE_RECOMMENDATIONS = {
   meta: {
-    last_updated: "2026-07-05",
+    last_updated: "2026-07-13",
     summary:
-      "根據本週官方頁與公開社群查核，優先建議布局 AI組織治理與市場情報、CEO成長藍圖、台灣企業個案決策、失敗復盤、人才接班、董事會級溝通六條產品線；新增關注AI資料治理與決策權、Agent服務產品化、雙軌轉型工具包。",
+      "根據本週官方頁與公開社群查核，優先建議布局 AI組織治理與市場情報、CEO成長藍圖、台灣企業個案決策、失敗復盤、人才接班、董事會級溝通六條產品線；新增關注神經科學決策與專注管理，並確認李聖珉好評加碼場與謝伯讓腦科學決策課。",
     method:
       "以官方課程頁、競品開課結構、重複開課/加開/額滿訊號、社群可觀測討論與高階主管需求推導。課程與老師為產品建議，不代表老師已確認合作。",
   },
@@ -77,6 +77,11 @@ window.COURSE_RECOMMENDATIONS = {
       why: "商周雙軌轉型把轉型體檢表、雙軌路線圖、KPI、風險掃描等工具包具體化，代表高階轉型課正從概念課走向可帶回公司的成果物。",
       evidence: "商周雙軌轉型組織領袖班官方頁列出企業轉型體檢表、戰略願景聲明、雙軌轉型路線圖、雙軌轉型成功指標與企業風險掃描。",
     },
+    {
+      name: "神經科學決策與專注管理",
+      why: "AI與資訊過載讓主管能力不只比工具熟練度，也比注意力、焦慮管理、判斷偏誤與團隊行為設計。",
+      evidence: "領導影響力學院謝伯讓《主管的大腦升級課》以腦神經科學包裝主管專注、判斷與新世代管理；Instagram 搜尋摘要可見近兩週多則導流貼文。",
+    },
   ],
   courses: [
     {
@@ -89,7 +94,7 @@ window.COURSE_RECOMMENDATIONS = {
         "陶韻智具平台與新創經營經驗，蘇欽豐具AI/ML導入與企業流程經驗，適合搭配CIO或法遵角色補足治理面。",
       targetAudience: "企業主、總經理、二代接班、CIO、營運主管、HR高階主管",
       marketSignal:
-        "AI課程已從提示詞轉向組織效能、AI Agent、自動化落地、Vibe Coding與市場情報系統；蘇欽豐課公開9/12場次、課後限量5組線上門診，陶韻智課標示好評加碼，市場需要主管能判斷治理、權限、資料與流程重設。",
+        "AI課程已從提示詞轉向組織效能、AI Agent、自動化落地、Vibe Coding與市場情報系統；蘇欽豐課公開9/12場次，陶韻智8/25好評加碼場公開9,600/12,000元與4人揪團招待1人，市場需要主管能判斷治理、權限、資料與流程重設。",
       productStructure: [
         "第1天：AI治理與風險邊界，盤點企業可導入場景。",
         "第2天：AI市場情報與紅軍對抗，建立競爭雷達原型。",
@@ -112,7 +117,7 @@ window.COURSE_RECOMMENDATIONS = {
       evidenceUrls: [
         "https://www.cw.com.tw/feature/topic/2026cwlcbusiness",
         "https://leaderimpact.cwgv.com.tw/course/1630",
-        "https://leaderimpact.cwgv.com.tw/course/1595",
+        "https://leaderimpact.cwgv.com.tw/course/1653",
         "https://www.youtube.com/watch?v=v2v83GNl2AY",
         "https://www.facebook.com/gv.monthly/videos/1563853208056682/",
         "https://www.instagram.com/reel/DYj7fLtDfvh/",
@@ -121,8 +126,8 @@ window.COURSE_RECOMMENDATIONS = {
         {
           platform: "Facebook",
           url: "https://www.facebook.com/gv.monthly/videos/1012439868422235/",
-          observed_at: "2026-07-05",
-          visible_metrics: "搜尋摘要顯示4天前推廣《AI組織效能實戰課》，主打AI洞察分析與紅軍對抗；完整留言、觀看與互動數需登入。",
+          observed_at: "2026-07-13",
+          visible_metrics: "搜尋摘要可見《AI組織效能實戰課》與陶韻智AI實戰課推廣；Instagram 顯示陶韻智、AI組織效能、Agent/Vibe Coding 相關導流貼文，完整留言、觀看與互動數需登入。",
           identity_signal: "主辦方/媒體帳號",
           sentiment_context: "ad-like；主打AI決策掌控與組織工作流",
           credibility_grade: "C",
@@ -131,7 +136,7 @@ window.COURSE_RECOMMENDATIONS = {
         {
           platform: "YouTube",
           url: "https://www.youtube.com/watch?v=v2v83GNl2AY",
-          observed_at: "2026-07-05",
+          observed_at: "2026-07-13",
           visible_metrics: "搜尋摘要顯示2週前影片，導流AI組織效能實戰課；公開摘要未提供完整觀看、留言與按讚。",
           identity_signal: "主辦方頻道",
           sentiment_context: "educational/ad-like",
@@ -141,8 +146,8 @@ window.COURSE_RECOMMENDATIONS = {
         {
           platform: "Instagram",
           url: "https://www.instagram.com/reel/DYj7fLtDfvh/",
-          observed_at: "2026-07-05",
-          visible_metrics: "搜尋摘要可見口碑加開與實戰/進階班；完整留言與按讚數不可公開查核/需登入。",
+          observed_at: "2026-07-13",
+          visible_metrics: "搜尋摘要可見陶韻智《給企業主管的AI實戰課》口碑加開、實戰班/進階班與AI Agent/Vibe Coding內容；完整留言與按讚數不可公開查核/需登入。",
           identity_signal: "主辦方或轉發帳號",
           sentiment_context: "positive/ad-like",
           credibility_grade: "C",
@@ -151,7 +156,7 @@ window.COURSE_RECOMMENDATIONS = {
         {
           platform: "Threads/X/Dcard/YouTube",
           url: "不可公開查核/需登入或未找到明確公開討論",
-          observed_at: "2026-07-05",
+          observed_at: "2026-07-13",
           visible_metrics: "不可公開查核/需登入",
           identity_signal: "unknown",
           sentiment_context: "unclear",
@@ -467,11 +472,11 @@ window.COURSE_RECOMMENDATIONS = {
         "李聖珉的問題解決與批判思考適合打底，搭配董事、投資人或CFO能把表達場景拉到高階決策。",
       targetAudience: "高階主管、策略幕僚、事業部主管、二代接班、對董事會簡報者",
       marketSignal:
-        "問題解決、批判思考與駐足思考表達課程持續投放；李聖珉課程官方頁顯示2026/6/24、7/1兩次下午課程與7/22線上即時諮詢，商周駐足思考表達班春季班已滿班、秋季班開放報名，代表市場需要把複雜議題講清楚、講到能決策。",
+        "問題解決、批判思考、腦科學決策與駐足思考表達課程持續投放；李聖珉官方頁已改為2026/9/29、10/6好評加碼場與10/28線上即時諮詢，早鳥NT$19,000、原價NT$24,000公開；謝伯讓《主管的大腦升級課》8/22唯一場把腦科學、專注力與判斷品質包裝成主管決策能力，代表市場需要把複雜議題想清楚、講清楚、講到能決策。",
       productStructure: [
-        "第1天：高階問題定義與決策樹。",
-        "第2天：策略敘事、數據故事與利害關係人地圖。",
-        "第3天：董事會簡報演練與即席問答。",
+        "第1天：高階問題定義、決策樹與常見判斷偏誤。",
+        "第2天：策略敘事、數據故事、利害關係人地圖與專注環境設計。",
+        "第3天：董事會簡報演練、即席問答與反對意見處理。",
       ],
       rewrittenCopy: {
         headline: "高階主管的影響力，不是講更多，而是讓決策更容易發生",
@@ -487,7 +492,8 @@ window.COURSE_RECOMMENDATIONS = {
       recommendedFormat: "3天小班實戰 + 1次簡報稿回饋",
       pricePosition: "建議定價 NT$45,000-75,000",
       evidenceUrls: [
-        "https://leaderimpact.cwgv.com.tw/course/1576",
+        "https://leaderimpact.cwgv.com.tw/course/1634",
+        "https://leaderimpact.cwgv.com.tw/course/1648",
         "https://bwlearning.businessweekly.com.tw/expression",
         "https://www.youtube.com/watch?v=Q_9z0nm_1kQ",
         "https://www.youtube.com/watch?v=VxSFtqLNSnU",
@@ -497,8 +503,8 @@ window.COURSE_RECOMMENDATIONS = {
         {
           platform: "YouTube",
           url: "https://www.youtube.com/watch?v=Q_9z0nm_1kQ",
-          observed_at: "2026-07-05",
-          visible_metrics: "搜尋摘要可見2個月前領導影響力學院影片；完整觀看數、留言與按讚需進頁或登入後查核。",
+          observed_at: "2026-07-13",
+          visible_metrics: "搜尋摘要可見領導影響力學院問題解決/批判思考影片；完整觀看數、留言與按讚需進頁或登入後查核。",
           identity_signal: "主辦方頻道",
           sentiment_context: "ad-like/educational",
           credibility_grade: "C",
@@ -507,7 +513,7 @@ window.COURSE_RECOMMENDATIONS = {
         {
           platform: "YouTube",
           url: "https://www.youtube.com/watch?v=VxSFtqLNSnU",
-          observed_at: "2026-07-05",
+          observed_at: "2026-07-13",
           visible_metrics: "搜尋摘要顯示上月學員推薦影片，標示中山醫學大學附設醫院副院長應宗和；完整觀看、留言與按讚需進頁查核。",
           identity_signal: "官方頻道/具名學員推薦",
           sentiment_context: "positive/brand-controlled",
@@ -517,7 +523,7 @@ window.COURSE_RECOMMENDATIONS = {
         {
           platform: "Facebook",
           url: "https://www.facebook.com/bwnet.fans/videos/1048299793225260/",
-          observed_at: "2026-07-05",
+          observed_at: "2026-07-13",
           visible_metrics: "搜尋摘要可見商周駐足思考表達班影片；完整互動數需登入。",
           identity_signal: "主辦方媒體帳號",
           sentiment_context: "ad-like",
@@ -525,14 +531,24 @@ window.COURSE_RECOMMENDATIONS = {
           note: "搭配官方頁滿班訊號，可支撐表達課仍有需求。",
         },
         {
-          platform: "Threads/X/Dcard/Instagram",
+          platform: "Instagram",
+          url: "https://www.instagram.com/p/DaIIo3gjWl6/",
+          observed_at: "2026-07-13",
+          visible_metrics: "搜尋摘要顯示近兩週貼文導流謝伯讓《主管的大腦升級課》，標示今年唯一場8/22；完整留言、按讚與分享不可公開查核/需登入。",
+          identity_signal: "主辦方或轉載帳號",
+          sentiment_context: "ad-like/educational",
+          credibility_grade: "C",
+          note: "可作為腦科學決策課正在投放的弱訊號，不能當作學員滿意度。",
+        },
+        {
+          platform: "Threads/X/Dcard",
           url: "不可公開查核/需登入或未找到明確公開討論",
-          observed_at: "2026-07-05",
+          observed_at: "2026-07-13",
           visible_metrics: "不可公開查核/需登入",
           identity_signal: "unknown",
           sentiment_context: "unclear",
           credibility_grade: "D",
-          note: "缺少高階主管具名心得，建議下一週補LinkedIn/Facebook個人貼文。",
+          note: "仍缺高階主管具名心得，建議下週補LinkedIn/Facebook個人貼文或課後訪談。",
         },
       ],
     },
