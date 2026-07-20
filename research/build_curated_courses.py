@@ -14,6 +14,7 @@ from __future__ import annotations
 import hashlib
 import json
 import re
+from datetime import datetime
 from pathlib import Path
 from typing import Any
 
@@ -316,12 +317,19 @@ def finalize_courses() -> dict[str, Any]:
         course["rank"] = idx
         course["source_index"] = idx
 
+    summary_path = RESEARCH / "collection_summary.json"
+    collection_summary = json.loads(summary_path.read_text(encoding="utf-8")) if summary_path.exists() else {}
+    generated_at = (
+        collection_summary.get("run_finished", "")[:10]
+        or datetime.now().date().isoformat()
+    )
+
     meta = {
-        "generated_at": "2026-06-22",
+        "generated_at": generated_at,
         "scope": "台灣市場最近半年可查之線下/實體高階經理人、主管領導力、CEO/EMBA與顧問公司課程；含公開班、學程、模組與論壇。",
-        "raw_observations": 1650,
-        "unique_activity_events": 562,
-        "detail_pages_read": 120,
+        "raw_observations": collection_summary.get("raw_search_observations", 0),
+        "unique_activity_events": collection_summary.get("unique_accupass_events", 0),
+        "detail_pages_read": collection_summary.get("detail_pages_collected", 0),
         "course_count": len(selected),
         "category_count": len({c["category"] for c in selected}),
         "categories": CATEGORIES,

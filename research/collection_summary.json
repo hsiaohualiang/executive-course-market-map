@@ -1,11 +1,16 @@
 {
-  "run_started": "2026-06-22T09:29:58",
-  "run_finished": "2026-06-22T09:32:43",
+  "run_started": "2026-07-20T13:16:00",
+  "run_finished": "2026-07-20T13:19:27",
   "accupass_queries": 66,
   "raw_search_observations": 1650,
-  "unique_accupass_events": 562,
-  "detail_pages_attempted": 120,
-  "detail_pages_collected": 120,
-  "candidate_courses": 53,
-  "errors": []
+  "unique_accupass_events": 548,
+  "detail_pages_attempted": 116,
+  "detail_pages_collected": 115,
+  "candidate_courses": 56,
+  "errors": [
+    {
+      "url": "https://emba.ncku.edu.tw/p/406-1140-291603%2Cr11.php?Lang=zh-tw",
+      "error": "<HTTPError 404: 'Not Found'>"
+    }
+  ]
 }

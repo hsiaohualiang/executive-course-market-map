@@ -1,7 +1,7 @@
 window.COURSE_MARKET_UPDATES = {
   meta: {
-    last_updated: "2026-07-13",
-    next_review: "2026-07-19 21:00",
+    last_updated: "2026-07-20",
+    next_review: "2026-07-26 21:00",
     cadence: "第一圈競品每月檢查；招生期與開課前後加密檢查價格、名額、完售、加開與課綱變動。",
     dashboard_note:
       "這個網站應視為持續更新的競品情報站。課程資料是市場地圖，競品洞察則追蹤招生頁語言、產品結構、價格與熱賣訊號的變化。",

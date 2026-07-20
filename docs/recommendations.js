@@ -1,6 +1,6 @@
 window.COURSE_RECOMMENDATIONS = {
   meta: {
-    last_updated: "2026-07-13",
+    last_updated: "2026-07-20",
     summary:
       "根據本週官方頁與公開社群查核，優先建議布局 AI組織治理與市場情報、CEO成長藍圖、台灣企業個案決策、失敗復盤、人才接班、董事會級溝通六條產品線；新增關注神經科學決策與專注管理，並確認李聖珉好評加碼場與謝伯讓腦科學決策課。",
     method:

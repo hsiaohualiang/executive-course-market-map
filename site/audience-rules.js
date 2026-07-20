@@ -1,6 +1,6 @@
 window.COURSE_AUDIENCE_RULES = {
   meta: {
-    last_updated: "2026-07-13",
+    last_updated: "2026-07-20",
     method:
       "目標客群先取官方頁或既有資料的適用對象，再依課名、類別、主辦單位、價格帶與產品型態做判讀。若未公開，標示為分析推論，不當作官方事實。",
   },
